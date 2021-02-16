@@ -16,6 +16,13 @@
         ]
     },
     "default": {
+        "amply": {
+            "hashes": [
+                "sha256:cb12dcb49d16b168c02be128a1527ecde50211e4bd94af76ff4e67707f5a2d38",
+                "sha256:f8a846a544750493f45e75e9b44c393144be5728701df4f596b1fa5595d263fd"
+            ],
+            "version": "==0.1.4"
+        },
         "appdirs": {
             "hashes": [
                 "sha256:7d5d0167b2b1ba821647616af46a749d1c653740dd0d2415100fe26e27afdf41",
@@ -344,9 +351,10 @@
         },
         "pulp": {
             "hashes": [
-                "sha256:cfecd6a78c2b08539dc29b7e8281f43d729b1089bdb5e491c3c0956aadbb3fc7"
+                "sha256:10aa02198435ad5792b7922737fb66a19a7cb4579d49317e402c8a1e1fc099ed",
+                "sha256:b2aff10989b3692e3a59301a0cb0acddeb25dcea378f8804c86007075eae55b5"
             ],
-            "version": "==1.6.8"
+            "version": "==2.4"
         },
         "pycodestyle": {
             "hashes": [
@@ -508,11 +516,10 @@
         },
         "snakemake": {
             "hashes": [
-                "sha256:9925451c5a1f5ab080a5827bef727d05e4f03f91f0b7ffc4cc3f2a7328572379",
-                "sha256:a4608447bf14a1e224a2732ec97ab6608a6d74650fcfd3a4b7a3c5ce8208ae47"
+                "sha256:ff35f3c5d283c5b38a926b943f18aa732cc8af4bd1f59471907ef3adda1b018c"
             ],
             "index": "pypi",
-            "version": "==5.24.1"
+            "version": "==5.32.2"
         },
         "toml": {
             "hashes": [
