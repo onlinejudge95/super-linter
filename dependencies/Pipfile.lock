@@ -608,11 +608,11 @@
         },
         "yq": {
             "hashes": [
-                "sha256:8654d8217d98caa4b03bc00a7041b3716e7e6f441516b52a3f7cc91578c1e9be",
-                "sha256:ffdfdd94629aa6b56f54edeb345795e97f337c83715be0abe8113722f1c1cc57"
+                "sha256:1d2ad403504d306b5258b86c698f9856d7ad58b7bb17a2b875691a6a7b8c4c20",
+                "sha256:1f124f48dee77ad5e0be8607777fed183e96c8d31fa577de14201c7a614e4819"
             ],
             "index": "pypi",
-            "version": "==2.11.0"
+            "version": "==2.12.0"
         },
         "zipp": {
             "hashes": [
